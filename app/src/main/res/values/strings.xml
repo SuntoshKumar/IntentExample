@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Intent Example</string>
+    <string name="storage_permission">Storage Permission</string>
+    <string name="contact_permission">Contact Permission</string>
+    <string name="camera_permission">Camera Permission</string>
+    <string name="microphone_permission">Microphone Permission</string>
+</resources>
